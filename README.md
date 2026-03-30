@@ -1,10 +1,6 @@
 <div align="center">
 
-$\textcolor{#001150}{\text{Welcome to a world of trepidation ...}}$
-
 ![Image Alt](https://files.catbox.moe/7bilzd.webp)
-
-$\textcolor{#001150}{\text{Clapped in irons, you face incarceration ! }}$
 
 $\textcolor{#001150}{\text{✦}}$
 
