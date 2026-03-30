@@ -2,8 +2,6 @@
 
 $\textcolor{#0F32B3}{\text{Welcome to a world of trepidation...}}$
 
-$\textcolor{#0F32B3}{\text{✦}}$
-
 ![Image Alt](https://files.catbox.moe/7bilzd.webp)
 
 $\textcolor{#0F32B3}{\text{Clapped in irons, you face incarceration ! }}$
