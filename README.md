@@ -1,7 +1,5 @@
 <div align="center">
 
-![Image Alt](https://files.catbox.moe/7bilzd.webp)
-
 $\textcolor{#001150}{\text{✦}}$
 
 <img width="70" src="https://komarev.com/ghpvc/?username=djhallyboo&color=001150&label=SINNERS">
