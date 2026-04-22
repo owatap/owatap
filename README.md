@@ -6,10 +6,12 @@
 
 $\textcolor{#ffffff}{\text{✦}}$
 
+<sup><sub>(..◜ᴗ◝..)</sub></sup>
 
 [atabook](https://owatap.atabook.org/)
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tun4g3oquqldxlem2ytxhgji44&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=true&profanity=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<sup><sub>(..◜ᴗ◝..)</sub></sup>
+<img width="107" height="64" alt="stamp" src="https://github.com/user-attachments/assets/ba7dca6e-7656-40eb-adf1-c4e2502c956b" />
+
