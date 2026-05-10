@@ -1,7 +1,7 @@
 
 <div align="center">
   
-<img width="222" height="200" alt="ezgif-3c8a01f711693d84" src="https://i.pinimg.com/736x/10/2d/24/102d24a1ab4f507f649c4d905ab914ec.jpg" />
+<img width="255" height="200" alt="ezgif-3c8a01f711693d84" src="https://files.catbox.moe/jt5ng6.gif" />
 ‎ 
 
 $\textcolor{#ffffff}{\text{✦}}$
